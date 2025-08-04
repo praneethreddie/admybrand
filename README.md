@@ -3,6 +3,10 @@
 
 A modern, responsive landing page for the ADmyBRAND AI Suite platform built with Next.js 14, featuring AI-powered marketing tools and brand management solutions.
 
+##preview
+
+https://admybranddeploy.vercel.app/
+
 ## 🚀 Quick Start
 
 ### Prerequisites
